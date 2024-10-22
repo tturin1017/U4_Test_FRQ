@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.project.TestSpinnerGame" tests="7" skipped="0" failures="0" errors="0" timestamp="2024-10-21T13:59:00" hostname="codespaces-b671d7" time="0.065">
+  <properties/>
+  <testcase name="testPlayRow1()" classname="com.example.project.TestSpinnerGame" time="0.044"/>
+  <testcase name="testPlayRow2()" classname="com.example.project.TestSpinnerGame" time="0.002"/>
+  <testcase name="testPlayRow3()" classname="com.example.project.TestSpinnerGame" time="0.001"/>
+  <testcase name="testPlayRow4()" classname="com.example.project.TestSpinnerGame" time="0.003"/>
+  <testcase name="testPlayRow5()" classname="com.example.project.TestSpinnerGame" time="0.001"/>
+  <testcase name="testSpin1()" classname="com.example.project.TestSpinnerGame" time="0.001"/>
+  <testcase name="testSpin2()" classname="com.example.project.TestSpinnerGame" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
