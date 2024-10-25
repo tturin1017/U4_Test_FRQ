@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.project.TestWordMatch" tests="15" skipped="0" failures="0" errors="0" timestamp="2024-10-25T16:21:01" hostname="codespaces-87e774" time="0.064">
+  <properties/>
+  <testcase name="testRow1A()" classname="com.example.project.TestWordMatch" time="0.019"/>
+  <testcase name="testRow1B()" classname="com.example.project.TestWordMatch" time="0.001"/>
+  <testcase name="testRow2A()" classname="com.example.project.TestWordMatch" time="0.001"/>
+  <testcase name="testRow2B()" classname="com.example.project.TestWordMatch" time="0.001"/>
+  <testcase name="testRow3A()" classname="com.example.project.TestWordMatch" time="0.001"/>
+  <testcase name="testRow3B()" classname="com.example.project.TestWordMatch" time="0.007"/>
+  <testcase name="testRow4A()" classname="com.example.project.TestWordMatch" time="0.001"/>
+  <testcase name="testRow4B()" classname="com.example.project.TestWordMatch" time="0.001"/>
+  <testcase name="testRow5A()" classname="com.example.project.TestWordMatch" time="0.001"/>
+  <testcase name="testRow5B()" classname="com.example.project.TestWordMatch" time="0.001"/>
+  <testcase name="testRow6A()" classname="com.example.project.TestWordMatch" time="0.001"/>
+  <testcase name="testRow6B()" classname="com.example.project.TestWordMatch" time="0.002"/>
+  <testcase name="testRow7A()" classname="com.example.project.TestWordMatch" time="0.001"/>
+  <testcase name="testRow8A()" classname="com.example.project.TestWordMatch" time="0.001"/>
+  <testcase name="testRow9A()" classname="com.example.project.TestWordMatch" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
